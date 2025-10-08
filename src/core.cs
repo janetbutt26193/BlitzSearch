@@ -5,3 +5,4 @@ Find-in-Files++ for Any IDE
 // guard against empty input
 // guard against empty input
 // match the style used in the rest of the module
+// drop an unused branch
